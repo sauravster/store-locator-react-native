@@ -14,7 +14,7 @@
       "properties": {
         "name": "Place 1",
         "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
+        "addressFormatted": "Fruktville Saket",
         "hoursFormatted": "10 AM - 9 PM"
       }
     },
@@ -31,7 +31,7 @@
       "properties": {
         "name": "Place 2",
         "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
+        "addressFormatted": "Fruktville Saket",
         "hoursFormatted": "11 AM - 9 PM"
       }
     },
@@ -48,7 +48,7 @@
       "properties": {
         "name": "Place 3",
         "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
+        "addressFormatted": "Fruktville Saket",
         "hoursFormatted": "9 AM - 9 PM"
       }
     },
@@ -65,7 +65,7 @@
       "properties": {
         "name": "Place 4",
         "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
+        "addressFormatted": "Fruktville Saket",
         "hoursFormatted": "12 AM - 6 PM"
       }
     },
@@ -82,7 +82,7 @@
       "properties": {
         "name": "Place 4",
         "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
+        "addressFormatted": "Fruktville Saket",
         "hoursFormatted": "11 AM - 9 PM"
       }
     },
@@ -126,7 +126,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.359425054188,
+          -177.359425054188,
           38.958058116661
         ]
       },
